@@ -1,4 +1,4 @@
-## Next - Priority at a Glance
+## Next
 ### It’s next up for your life
 
 Next is specifically designed to help you manage the complexity of modern life.
